@@ -1,0 +1,31 @@
+﻿@font-face {
+    font-family: "Kenny Mini";
+    src: url(../fonts/kenney-mini.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal
+}
+
+@font-face {
+    font-family: "Kenny Mini";
+    src: url(../fonts/kenney-mini-square.ttf) format('truetype');
+    font-weight: bold;
+    font-style: normal
+}
+
+
+@font-face {
+    font-family: "Kenny Pixel";
+    src: url(../fonts/kenney-pixel.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal
+}
+
+
+
+@font-face {
+    font-family: "Kenny Pixel";
+    src: url(../fonts/kenney-pixel-square.ttf) format('truetype');
+    font-weight: bold;
+    font-style: normal
+}
+
