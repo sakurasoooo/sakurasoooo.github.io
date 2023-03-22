@@ -1,2 +1,2 @@
 # sakurasoooo.github.io
-Personal webpade
+Personal webpage
